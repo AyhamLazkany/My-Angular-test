@@ -1,0 +1,22 @@
+{
+  "name": "my-angular-test",
+  "version": "1.0.0",
+  "description": "this is a test directory to learn git and node",
+  "main": "test.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AyhamLazkany/My-Angular-test.git"
+  },
+  "author": "Ayham",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AyhamLazkany/My-Angular-test/issues"
+  },
+  "homepage": "https://github.com/AyhamLazkany/My-Angular-test#readme",
+  "devDependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
